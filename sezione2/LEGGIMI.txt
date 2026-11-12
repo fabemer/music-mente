@@ -1,0 +1,3 @@
+Music@mente – Seconda sezione, pagine 46–73 (28 pagine).
+Tutti i 69 file MIDI sono stati convertiti in MP3 e collegati alle rispettive aree cliccabili. I MIDI originali sono conservati nella cartella audio come copie.
+Estrarre l’intero archivio e aprire index.html. Funziona offline con Chrome o Edge.
